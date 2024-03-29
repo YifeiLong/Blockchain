@@ -173,7 +173,7 @@ public class SpvPeer extends Thread{
                                     SecurityUtil.sha256Digest(transaction.toString()));
                             transactionPool.put(transaction);
                             if(transactionPool.isFull()){
-                                transaction.notify();
+                                transactionPool.notify();
                                 break;
                             }
                         }
