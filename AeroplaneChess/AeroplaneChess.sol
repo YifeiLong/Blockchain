@@ -112,19 +112,57 @@ contract AeroplaneChess {
         require(!gameover);
 
         // 判断是否是当前用户轮次
-        
+        require(isMyRound());
+
         // 获取当前应走的步数
-
+        uint steps = randomDice(_str);
+        
         // 起飞需要掷出6
-
+        if(players[playerId[msg.sender]].position == 0) {
+            if(steps == 6 || steps == dice){
+                players[playerId[msg.sender]].step = steps;
+            }
+            else{
+                players[playerId[msg.sender]].round ++;
+                times ++;
+                return;
+            }
+        }
         // 起飞后无要求
+        else {
+            players[playerId[msg.sender]].step = steps;
+        }
 
-            // 达到终点游戏结束
+        uint currentPosition = players[playerId[msg.sender]].position;
+        
+        // 达到终点游戏结束
+        if(currentPosition + steps == destination) {
+            gameover = true;
+            winnerId = playerId[msg.sender];
+            players[playerId[msg.sender]].position = destination;
+            return;
+        }
 
-            // 超过终点需要往回走
+        // 超过终点需要往回走
+        if(currentPosition + steps > destination) {
+            uint overshoot = currentPosition + steps - destination;
+            players[playerId[msg.sender]].position = destination - overshoot;
+        }
+        else {
+            players[playerId[msg.sender]].position = currentPosition + steps;
+        }
 
-            // 若是撞到别人的飞机，则将其撞回原点
+        // 若是撞到别人的飞机，则将其撞回原点
+        for(uint i = 0; i < currentPlayerCount; ++i) {
+            if(i != playerId[msg.sender] && players[i].position == players[playerId[msg.sender]].position) {
+                players[i].position = 0;
+            }
+        }
+
+        // 更新轮次
+        players[playerId[msg.sender]].round ++;
 
         // 游戏运行次数+1
+        times ++;
     }
 }
