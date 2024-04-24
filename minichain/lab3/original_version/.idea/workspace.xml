@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f107c75-2d3d-40d3-bfcb-0e8dd4c88938" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/.idea/libraries/junit4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/.idea/libraries/junit4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/.idea/minichain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/.idea/minichain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/minichain/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/minichain/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/minichain/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/minichain/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/minichain/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/minichain/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/minichain/minichain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/minichain/minichain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/.idea/libraries/junit4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/.idea/libraries/junit4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/.idea/minichain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/.idea/minichain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/minichain/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/minichain/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/minichain/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/minichain/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/minichain/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/minichain/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/minichain/minichain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/minichain/minichain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/src/main/java/data/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/src/main/java/data/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/src/main/java/data/UTXO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/src/main/java/data/UTXO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/src/main/java/utils/Base58Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/src/main/java/utils/Base58Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/src/test/java/unit/UtxoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/src/test/java/unit/UtxoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/.idea/libraries/junit4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/.idea/libraries/junit4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/.idea/minichain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/.idea/minichain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/minichain/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/minichain/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/minichain/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/minichain/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/minichain/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/minichain/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/minichain/minichain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/minichain/minichain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/src/main/java/data/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/src/main/java/data/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/src/main/java/data/UTXO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/src/main/java/data/UTXO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/src/main/java/spv/Proof.java" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/src/main/java/spv/Proof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/src/main/java/spv/SpvPeer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/src/main/java/spv/SpvPeer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_version/src/main/java/utils/Base58Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../final_version/src/main/java/utils/Base58Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nyFnt5MLdVg3e33XC6HKaTuYA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Blockchain/minichain/lab3/original_version",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MiniChainApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniChainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniChainApplication" />
+      <module name="minichain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.getBlockBodyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minichain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.Test" />
+      <option name="METHOD_NAME" value="getBlockBodyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minichain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.Test" />
+      <option name="METHOD_NAME" value="method" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniChainApplication" />
+        <item itemvalue="JUnit.Test.getBlockBodyTest" />
+        <item itemvalue="JUnit.Test.method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f107c75-2d3d-40d3-bfcb-0e8dd4c88938" name="Default Changelist" comment="" />
+      <created>1612354593488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612354593488</updated>
+      <workItem from="1612354594704" duration="2361000" />
+      <workItem from="1612418302595" duration="10948000" />
+      <workItem from="1612442132700" duration="18910000" />
+      <workItem from="1612764092601" duration="10645000" />
+      <workItem from="1613806389967" duration="2457000" />
+      <workItem from="1613995713689" duration="12450000" />
+      <workItem from="1709173323586" duration="113000" />
+      <workItem from="1709173445775" duration="9000" />
+      <workItem from="1709174126673" duration="2367000" />
+      <workItem from="1709181149420" duration="64000" />
+      <workItem from="1709775588118" duration="6129000" />
+      <workItem from="1709795946093" duration="985000" />
+      <workItem from="1710061375762" duration="1369000" />
+      <workItem from="1710063651231" duration="3703000" />
+      <workItem from="1710381967996" duration="3942000" />
+      <workItem from="1710580134358" duration="8429000" />
+      <workItem from="1710648819104" duration="2623000" />
+      <workItem from="1710654151754" duration="9142000" />
+      <workItem from="1710672302764" duration="5000" />
+      <workItem from="1710673244768" duration="1893000" />
+      <workItem from="1710744519586" duration="179000" />
+      <workItem from="1710744717122" duration="2318000" />
+      <workItem from="1710827161270" duration="3099000" />
+      <workItem from="1710985145247" duration="629000" />
+      <workItem from="1710989321876" duration="719000" />
+      <workItem from="1711073004181" duration="437000" />
+      <workItem from="1711075022242" duration="2819000" />
+      <workItem from="1711205362878" duration="1545000" />
+      <workItem from="1711343503020" duration="2731000" />
+      <workItem from="1711349100864" duration="6069000" />
+      <workItem from="1711430020573" duration="3050000" />
+      <workItem from="1711433327102" duration="2912000" />
+      <workItem from="1711443741856" duration="2849000" />
+      <workItem from="1711543694983" duration="3274000" />
+      <workItem from="1711703664341" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="minichain" type="b2602c69:ProjectViewProjectNode" />
+        <item name="minichain" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
