@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color: #d6e2ef; /* 整个应用的背景色 */
+  min-height: 100vh; /* 确保至少覆盖可视区域的高度 */
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  background-color: #9fbdd5; /* 导航栏的背景色 */
+  padding: 25px 0;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+nav a {
+  color: black;
+  margin: 0 25px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.App-content {
+  background-color: #d6e2ef; /* 确保标题部分背景色与App背景色一致 */
+  color: black;
+  font-size: 20px;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  width: 100%;
+}
+

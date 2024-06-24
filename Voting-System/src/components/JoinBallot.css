@@ -1,0 +1,40 @@
+.join-ballot-container {
+    padding: 20px;
+    background-color: #d6e2ef;
+}
+
+.poll-container {
+    margin: 20px auto;
+    background-color: whitesmoke; /* 白色背景，每个投票一个盒子 */
+    padding: 15px;
+    border-radius: 8px;
+    width: 50%;
+    max-width: 600px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.poll-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.poll-option {
+    background-color: #cbc5d3; /* 淡灰色背景 */
+    padding: 10px 20px;
+    margin: 5px 0; /* 选项之间的间距 */
+    border-radius: 5px;
+    cursor: default;
+}
+
+.poll-join-button {
+    /*background-color: green;*/
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    background-color: #cccccc;
+}

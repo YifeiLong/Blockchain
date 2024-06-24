@@ -1,0 +1,45 @@
+/* 投票容器样式 */
+.vote-poll-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: whitesmoke;
+    width: 80%;
+    max-width: 600px;
+}
+
+/* 投票标题样式 */
+.vote-poll-title {
+    font-size: 20px; /* 标题字体大小 */
+    margin-bottom: 10px; /* 标题下的间隙 */
+}
+
+/* 投票选项按钮样式 */
+.vote-option-button {
+    display: block;
+    width: 75%;
+    background-color: #cbc5d3;
+    color: black;
+    padding: 10px 20px;
+    /* 选项之间的间距 */
+    margin: 5px 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: center;
+    font-size: 16px;
+}
+
+/*.vote-option-button:hover {*/
+/*    background-color: ; !* 鼠标悬停时变深绿色 *!*/
+/*}*/
+
+/*.vote-option-button:disabled {*/
+/*    background-color: #cccccc; !* 不可点击时的颜色 *!*/
+/*    cursor: default;*/
+/*}*/
