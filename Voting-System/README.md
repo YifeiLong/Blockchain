@@ -1,7 +1,7 @@
 # Voting System
 A voting system based on blockchain system, using Hardhat + React + Ganache + MetaMask to implement.
 
-Run `npx hardhat compile` to compile the smart contract, run `npx hardhat run scripts/deploy.js --network localhost ` to deploy the contract (paste the deploy address to `App.js`.
+Run `npx hardhat compile` to compile the smart contract, run `npx hardhat run scripts/deploy.js --network localhost` to deploy the contract (paste the deploy address to `App.js`.
 
 Run `npm start` to run this DApp.
 
